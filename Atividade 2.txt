@@ -1,0 +1,166 @@
+1. Identificação do Projeto
+
+Nome do projeto: WorkFast – Plataforma de Freelances Rápidos por Hora
+Equipe: (preencher com os nomes)
+Data: (preencher)
+
+Descrição breve do projeto:
+O WorkFast é uma plataforma digital que conecta pessoas que precisam de serviços rápidos com freelancers disponíveis para realizar tarefas por hora, de forma simples, rápida e segura.
+
+---
+
+2. Problema a Ser Resolvido
+
+Atualmente, muitas pessoas precisam de serviços rápidos, como edição de vídeo, criação de códigos, montagem de apresentações ou design gráfico.
+
+Porém, plataformas existentes são:
+
+* complexas
+* demoradas
+* focadas em projetos longos
+* difíceis para iniciantes
+
+Problema:
+Não existe uma plataforma simples e eficiente voltada para contratação de freelancers para trabalhos rápidos com pagamento por hora.
+
+Quem é afetado:
+
+* estudantes
+* freelancers iniciantes
+* pequenas empresas
+* pessoas que precisam de soluções rápidas
+
+Por que é relevante:
+A dificuldade de acesso a serviços rápidos atrasa tarefas e reduz oportunidades de renda para iniciantes.
+
+---
+
+3. Objetivo do Sistema
+
+O objetivo do WorkFast é facilitar a contratação de freelancers para tarefas rápidas, com pagamento por hora e execução imediata.
+
+Resultado esperado:
+
+* redução do tempo para encontrar profissionais
+* aumento de oportunidades para freelancers iniciantes
+* sistema seguro de pagamento e contratação
+
+---
+
+4. Público-Alvo
+
+O sistema será utilizado por:
+
+* estudantes
+* jovens profissionais
+* programadores iniciantes
+* designers
+* editores de vídeo
+* pessoas em busca de renda extra
+* pequenas empresas
+
+Perfil dos usuários:
+Pessoas que buscam praticidade, rapidez e baixo custo na contratação ou prestação de serviços.
+
+---
+
+5. Descrição da Solução
+
+O WorkFast funcionará como uma plataforma digital (site ou aplicativo) onde usuários podem contratar ou oferecer serviços por hora.
+
+Funcionamento:
+
+1. Usuário cria uma conta
+2. Escolhe entre contratar ou trabalhar
+3. Freelancer cadastra:
+
+   * habilidades
+   * valor por hora
+   * disponibilidade
+4. Cliente seleciona o profissional
+5. Contrata por um período de horas
+6. O pagamento fica retido na plataforma
+7. Após a conclusão, o valor é liberado com desconto da taxa da plataforma
+
+---
+
+6. Funcionalidades Principais
+
+* Cadastro e login de usuários
+* Perfil de freelancer com habilidades e preço por hora
+* Busca e filtro de profissionais
+* Sistema de contratação por hora
+* Chat interno entre cliente e freelancer
+* Sistema de pagamento (PIX/cartão)
+* Avaliação e reputação de usuários
+* Histórico de trabalhos
+
+---
+
+7. Diferencial / Inovação
+
+O WorkFast se diferencia por focar exclusivamente em trabalhos rápidos e pagamento por hora.
+
+Comparação com outras plataformas:
+
+* LinkedIn: voltado para empregos fixos
+* Fiverr: serviços pré-definidos
+* Upwork: projetos longos
+* WorkFast: serviços rápidos e imediatos
+
+Diferenciais:
+
+* contratação instantânea
+* foco em tarefas pequenas
+* interface simples
+* ideal para iniciantes
+* menor burocracia
+
+---
+
+8. Tecnologias Utilizadas
+
+Possíveis tecnologias para desenvolvimento:
+
+* Frontend: HTML, CSS, JavaScript (React)
+* Backend: Node.js ou Python
+* Banco de dados: MySQL ou MongoDB
+* Aplicativo mobile: React Native ou Flutter
+* Pagamento: integração com PIX e cartão
+* Outros: sistema de autenticação e chat em tempo real
+
+---
+
+9. Viabilidade
+
+É possível desenvolver?
+Sim, principalmente iniciando com uma versão simples (MVP).
+
+Tempo estimado:
+
+* Protótipo: 1 a 2 meses
+* Versão funcional: 3 a 6 meses
+
+Recursos necessários:
+
+* equipe de desenvolvimento
+* computador e internet
+* ferramentas de programação
+* API de pagamento
+* banco de dados
+
+---
+
+10. Impacto Esperado
+
+Impacto para usuários:
+
+* facilidade para encontrar serviços rápidos
+* geração de renda para freelancers iniciantes
+* economia de tempo
+
+Impacto organizacional/social:
+
+* incentivo ao trabalho autônomo
+* inclusão de novos profissionais no mercado
+* dinamização da economia digital
